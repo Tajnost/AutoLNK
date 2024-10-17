@@ -20,7 +20,7 @@ else:
         print("You must install liblnk's python bindings for non-windows machines!")
         sys.exit(1)
 
-# ASCII Art Banner, changed to "LUNKO" as requested
+
 banner = r"""
 banner = r"""
 
