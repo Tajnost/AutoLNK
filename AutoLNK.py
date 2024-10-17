@@ -21,7 +21,7 @@ else:
         sys.exit(1)
 
 
-banner = r"""
+
 banner = r"""
 
  ________                                                   __     
@@ -38,7 +38,7 @@ banner = r"""
                    \$$$$$$                                         
 
 """
-"""
+
 
 # Function to parse command-line arguments
 def parse_cmd_line_args():
