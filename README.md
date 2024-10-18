@@ -24,8 +24,8 @@ This Python script is designed to generate `.lnk` (shortcut) files, scan SMB sha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/lnk-payload-smb.git
-   cd lnk-payload-smb
+   git clone [https://github.com/Tajnost/AutoLNK.git]
+   cd AutoLNK.git
    ```
 
 2. Install required Python libraries:
